@@ -5,7 +5,7 @@ Flask Web App to classify customer feedback as postive or negative.
 ![Image](https://github.com/user-attachments/assets/ce9b2b99-7c6d-4404-aff2-87cc09e1277a)
 ![Image](https://github.com/user-attachments/assets/21fee53b-f5b6-4768-a35d-fa0d753b2992)
 
-Utilizing Python, TensorFlow (RNN Modle), Flask, Pandas 
+Utilizing Python, TensorFlow (RNN Model), Flask, Pandas 
 
 # Data Set
 Twitter US Airline Sentiment from Kaggle
